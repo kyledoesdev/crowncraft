@@ -12,7 +12,7 @@ The server is also whitelisted so all Minecraft IGN’s will need to be shared w
 # Setup Instructions
 ----------------------------------------------
 - Download CurseForge (either option for Windows will work) https://www.curseforge.com/download/app#download-options
-- Download Friendship_Time.zip This is a folder containing all of the mods the server will be using.
+- Download Friendshiptime_modpack.zip from this repo. This is a folder containing all of the mods the server will be using.
 - Launch CurseForge and select “Create New Profile” in the upper right-hand corner.
 - Select the “Import” option From there you will select the “Friendship_Time.zip” Folder that you downloaded before.
 - To run smoothly we recommend you allocate at least 6GB of memory. In order to change it you will select “Settings” in                                                                                  CurseForge which is located in the bottom left-hand corner.
