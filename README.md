@@ -7,7 +7,7 @@ This is going to be an OPEN server so feel free to invite friends but note we ma
 
 The server is also whitelisted so all Minecraft IGN’s will need to be shared with us to allow you on.
 
-### Server IP: 50.20.205.188:25565
+### Server IP: 167.114.44.139:25565
 ----------------------------------------------
 # Setup Instructions
 ----------------------------------------------
