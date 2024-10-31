@@ -6,7 +6,7 @@ Hello all and welcome to the Crown-Craft Minecraft Server! 🎮
 This server is generously hosted by [xTemperate](https://www.twtich.tv/xTemperate)
 
 To be added to the whitelist for the server, feel free to:
-- Create a Github issue with your Minecraft IGN
+- Reply to the Github issue: IGN Whitelist with your Minecraft IGN
 - Message in our twitch chats when any of the following are live:
   - [spacelampsix (me)](https://www.twtich.tv/spacelampsix)
   - [gabrieldontsnap](https://www.twtich.tv/gabrieldontsnap)
