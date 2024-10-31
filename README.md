@@ -1,4 +1,4 @@
-# Crown-Craft Minecraft Server Setup Instructions & Rules 🚀
+# Crown-Craft MC Server Setup Instructions & Rules 🚀
 <b>(JAVA EDITION ONLY)</b>
 
 Hello all and welcome to the Crown-Craft Minecraft Server! 🎮
