@@ -24,7 +24,6 @@ To be added to the whitelist for the server, feel free to:
   - If you are on Windows, Overwolf or standalone should work fine.
   - If you are linux, you may need to download curseforge through your distributions package manager or follow the linux setup instructions on CurseForge's website.
   - If you are on Mac, download the Mac option (Your machine may struggle to run the server at a high FPS, but it should still be playable.)
-- Download modpack.zip from this repo. This is a folder containing all of the mods the server will be using. You can download this by clicking on the file, and then clicking the download raw file button on the right hand side.
 - Launch CurseForge, Select Minecraft and Select “Create New Profile” in the upper right-hand corner.
 - Select the “Import” option From there you will select the “modpack.zip” Folder that you downloaded before.
 - To run smoothly we recommend you allocate at least 6GB of memory. In order to change it you will select “Settings” in CurseForge which is located in the bottom left-hand corner.
