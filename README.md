@@ -19,6 +19,7 @@ To be added to the whitelist for the server, feel free to:
 # Setup Instructions 📜
 ----------------------------------------------
 
+- Download the Modpack [here](https://drive.google.com/file/d/1JYMbL8FdLUScA9RQyMdYKWWAnoc_Bz_d/view?usp=sharing) (Google Drive Link)
 - Download [CurseForge](https://www.curseforge.com/download/app#download-options)
   - If you are on Windows, Overwolf or standalone should work fine.
   - If you are linux, you may need to download curseforge through your distributions package manager or follow the linux setup instructions on CurseForge's website.
