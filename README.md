@@ -8,7 +8,7 @@ This server is generously hosted by [xTemperate](https://www.twtich.tv/xTemperat
 To be added to the whitelist for the server, feel free to:
 - Create a Github issue with your Minecraft IGN
 - Message in our twitch chats when any of the following are live:
-  - [spacelamppsix (me)](https://www.twtich.tv/spacelampsix)
+  - [spacelampsix (me)](https://www.twtich.tv/spacelampsix)
   - [gabrieldontsnap](https://www.twtich.tv/gabrieldontsnap)
   - [xTemperate](https://www.twtich.tv/xTemperate)
 - Join one of the following discords and ask:
